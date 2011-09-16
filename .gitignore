@@ -1,2 +1,9 @@
 pkg
 doc
+.gemmirrorrc
+.bundle
+.gem
+.viminfo
+.profile
+.bash*
+log
